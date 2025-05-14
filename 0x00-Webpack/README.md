@@ -1,1 +1,1 @@
-Readme file for setting up webpack in React
+setting up webpack for react
