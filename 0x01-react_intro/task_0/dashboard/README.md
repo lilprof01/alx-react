@@ -1,5 +1,1 @@
-# Basic React Application
-
-## Screenshot
-
-<img src="public/screenshot.png" width="400" />
+Basic React Application
